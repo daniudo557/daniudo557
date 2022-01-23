@@ -17,8 +17,10 @@ I'm Daniel from Brazil. I work with `React` and really enjoy learning new things
 }
 ```
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<a href="https://github.com/daniudo557" alt="link to Daniel Macedo's github page">
+<div align="center" />
+
+<a href="https://github.com/daniudo557" alt="link to Daniel Macedo's github page" >
   <img alt="Daniel Macedo's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniudo557&theme=midnight-purple&hide_langs_below=1" />
 </a>
