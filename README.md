@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm Daniel from Brazil. I work with `React` and really enjoy learning new things using technology! Check me out on [Linkedin](https://www.linkedin.com/in/macedo-daniel/) or contact me on my [email](mailto:smacedo.daniel@gmail.com)!
+I'm Daniel from Brazil. I work with `React` and really enjoy learning new things using technology! Check me out on [Linkedin](https://www.linkedin.com/in/macedo-daniel/) or contact me by [email](mailto:smacedo.daniel@gmail.com)!
 
 ## 👤 About me
 
