@@ -7,7 +7,7 @@ I'm Daniel from Brazil. I work with `React` and really enjoy learning new things
 ```json
 {
   "name": "Daniel Macedo",
-  "age": 24,
+  "age": 27,
   "country": "Brazil",
   "email": "smacedo.daniel@gmail.com",
   "languages": ["JavaScript", "TypeScript", "Dart", "Python"],
