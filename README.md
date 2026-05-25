@@ -18,6 +18,6 @@ Check out my work at [danielmacedo.dev](https://danielmacedo.dev/)￼, connect w
   "languages": ["TypeScript", "JavaScript", "Python", "Dart"],
   "technologies": ["React", "React Native", "Django", "GraphQL", "Flutter"],
   "tools": ["Redux", "React Query", "React Testing Library", "PostHog", "Vercel", "Expo"],
-  "skills": ["Clean Code", "Pixel Perfect", "Product Thinking", "Frontend Architecture", "Performance Optimization", "Teamwork", "Problem Solving"]
+  "skills": ["Clean Code", "Pixel Perfect", "Teamwork", "Problem Solving"]
 }
 ```
