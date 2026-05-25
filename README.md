@@ -21,11 +21,3 @@ Check out my work at [danielmacedo.dev](https://danielmacedo.dev/)￼, connect w
   "skills": ["Clean Code", "Pixel Perfect", "Product Thinking", "Frontend Architecture", "Performance Optimization", "Teamwork", "Problem Solving"]
 }
 ```
-
-## 📊 GitHub Stats
-
-<div align="center" />
-
-<a href="https://github.com/daniudo557" alt="link to Daniel Macedo's github page" >
-  <img alt="Daniel Macedo's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniudo557&theme=midnight-purple&hide_langs_below=1" />
-</a>
